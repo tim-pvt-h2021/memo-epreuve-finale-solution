@@ -1,0 +1,22 @@
+.Taches {
+  width: 100%;
+
+  input {
+    box-sizing: border-box;
+    margin: 0;
+    width: 100%;
+    height: 30px;
+    border: none;
+    border-bottom: 1px solid #444;
+    margin-bottom: 20px;
+    outline: none;
+    font-size: 1em;
+    padding: 20px 10px;
+    background-color: #fffdd0;
+    color: #999;
+
+    &::-webkit-input-placeholder { 
+      color: #aaa;
+    }
+  }
+}

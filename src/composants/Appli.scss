@@ -1,0 +1,21 @@
+.Appli {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+
+  .appliEntete {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: white;
+  
+    .appliLogo {
+      width: 100px;
+      pointer-events: none;
+    }
+    
+  }
+  
+}
+

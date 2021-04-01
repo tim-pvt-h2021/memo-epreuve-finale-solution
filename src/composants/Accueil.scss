@@ -1,0 +1,25 @@
+.Accueil {
+  margin: 50px auto;
+  text-align: center;
+  
+  .logo {
+    display: block;
+    height: 40px;
+    color: #925c04;
+    background: url(../images/memo-logo.png);
+    background-size: auto 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-top: 190px;
+    margin-bottom: 40px;
+    font-weight: 300;
+    font-size: 2.4em;
+  }
+
+  .connexion-etiquette {
+    font-size: 1.0rem;
+    color: #555;
+    font-weight: normal;
+    margin-bottom: 0;
+  }
+}
